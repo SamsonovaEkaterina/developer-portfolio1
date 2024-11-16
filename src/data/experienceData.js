@@ -1,23 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
+        company: 'ООО «ДубльГИС»',
+        jobtitle: 'Frontend Разработчик',
         startYear: '2018',
         endYear: '2019'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
+        company: 'Филиал «Газпром недра НТЦ»',
+        jobtitle: 'Backend Разработчик',
         startYear: '2019',
         endYear: '2020'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
+        company: 'CONTENTED: онлайн-курсы дизайна',
+        jobtitle: 'Веб-дизайнер',
         startYear: '2020',
-        endYear: 'Present'
+        endYear: 'Сейчас'
     },
 ]

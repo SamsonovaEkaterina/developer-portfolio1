@@ -11,8 +11,8 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
+        projectName: 'Управление персоналом',
+        projectDesc: 'Этот проект направлен на построение системы управления сотрудниками, которая консолидирует всю информацию компании.',
         tags: ['React', 'CSS', 'Material Ui'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -20,8 +20,8 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
+        projectName: 'Железнодорожное отслеживание',
+        projectDesc: 'Этот проект представляет собой систему отслеживания железнодорожных путей, которая позволяет пользователям получать актуальную информацию о времени движения поездов..',
         tags: ['Django', 'Tailwind CSS'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -29,8 +29,8 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+        projectName: 'Приложение Погода',
+        projectDesc: 'Системы и приложения прогноза погоды прогнозируют погодные условия на основе множества параметров..',
         tags: ['Django', 'CSS', 'Material Ui'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -38,8 +38,8 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Android Patient Tracker',
-        projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
+        projectName: 'Android-трекер пациентов',
+        projectDesc: 'Этот проект предполагает разработку Android-приложения для просмотра и управления данными пациентов..',
         tags: ['Flutter', 'Firebase'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -47,8 +47,8 @@ export const projectsData = [
     },
     {
         id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
+        projectName: 'Приложение для электронной коммерции',
+        projectDesc: 'Простое приложение для электронной коммерции',
         tags: ['React Native', 'Firebase'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -56,8 +56,8 @@ export const projectsData = [
     },
     {
         id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: 'Uber clone',
+        projectName: 'Убер Лайт',
+        projectDesc: 'Убер клон',
         tags: ['Flutter'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -65,8 +65,8 @@ export const projectsData = [
     },
     {
         id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: 'A simple stock market API app',
+        projectName: 'Приложение «Фондовый рынок»',
+        projectDesc: 'Простое приложение API фондового рынка',
         tags: ['React', 'Redux', 'Bootstrap'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -74,8 +74,8 @@ export const projectsData = [
     },
     {
         id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
+        projectName: 'Система объединения автомобилей',
+        projectDesc: 'Система совместного использования автомобилей объединяет несколько человек в автомобиле, что позволяет знакомиться с новыми людьми и снижает загрязнение окружающей среды.',
         tags: ['Flutter', 'React'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',

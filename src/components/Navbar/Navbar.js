@@ -189,7 +189,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Home
+                                        Главная
                                     </span>
                                 </div>
                             </NavLink>
@@ -205,7 +205,7 @@ function Navbar() {
                                 <div className={classes.drawerItem}>
                                     <FaUser className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
-                                        About
+                                        Обо мне
                                     </span>
                                 </div>
                             </NavLink>
@@ -223,7 +223,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Resume
+                                        Резюме
                                     </span>
                                 </div>
                             </NavLink>
@@ -241,7 +241,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Services
+                                        Сервисы
                                     </span>
                                 </div>
                             </NavLink>
@@ -259,7 +259,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Blog
+                                        Блог
                                     </span>
                                 </div>
                             </NavLink>
@@ -275,7 +275,7 @@ function Navbar() {
                                 <div className={classes.drawerItem}>
                                     <MdPhone className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
-                                        Contact
+                                        Контакты
                                     </span>
                                 </div>
                             </NavLink>

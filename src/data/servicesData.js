@@ -14,12 +14,12 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
+        title: 'Написание контента',
         icon: <BiPencil /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Электронный маркетинг',
         icon: <AiOutlineMail />
     },
     // {
@@ -35,12 +35,12 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Веб-дизайн',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Photography',
+        title: 'Фотография',
         icon: <FaCameraRetro />
     },
     // {
@@ -50,7 +50,7 @@ export const servicesData = [
     // }, 
     {
         id: 9,
-        title: 'Video Editing',
+        title: 'Редактирование видео',
         icon: <FaVideo />
     },
     // {
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'Написание электронных книг',
         icon: <FaTabletAlt />
     },
     // {
@@ -70,7 +70,7 @@ export const servicesData = [
     // },
     {
         id: 13,
-        title: 'Blog Posting',
+        title: 'Публикация в блоге',
         icon: <FaRegNewspaper />
     },
 

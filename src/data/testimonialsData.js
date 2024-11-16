@@ -11,44 +11,44 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
+        name: 'Чендлер Бинг',
+        title: 'Транспонстер',
+        text: "Создание собственного портфолио никогда не могло быть проще, чем это. Единственные области, в которых я хорош, — это математика, шутки и танцы..",
         image: boy2
     },
     {
         id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
+        name: 'Моника Геллер',
+        title: 'Шеф-повар',
+        text: "Это единственное, на что мне не пришлось тратить время. Это само по себе аккуратно.",
         image: girl2
     },
     {
         id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
+        name: 'Фиби Буффе',
+        title: 'Массажистка',
+        text: "Слышал о песне «Smelly Cat!!» ? Этот сайт стал вирусным. Плюс портфолио — единственное, чего нет у Урсулы. :)",
         image: girl1
     },
     {
         id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
+        name: 'Джои Триббиани',
+        title: 'Актер',
+        text: "Создание моего портфолио помогло мне получить роль «доктора». Дрейк Раморе в фильме «Дни нашей жизни». Вы, ребята, лучшие !",
         image: boy1
     },
     {
         id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
+        name: 'Рэйчел Грин',
+        title: 'Директор по продажам',
+        text: 'Ральф Лорен был одним из лучших вещей, которые когда-либо случались со мной. Мое портфолио воплотило эту мечту в жизнь. Я ваш должник, ребята.',
         image: girl3
     },
     {
         id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
+        name: 'Росс Геллер',
+        title: 'Палеонтолог',
+        text: "Будь то «Камни» или «Кости», вам нужен веб-сайт, чтобы отобразить их. Вот и все. Отличная работа, ребята !",
         image: boy3
     }
 ]
